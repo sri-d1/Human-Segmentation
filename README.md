@@ -51,6 +51,7 @@ For Project purpose 1501 images and masks were used after uploading to google dr
 
 ## Model Architecture
 U-Net is a convolutional neural network architecture designed for semantic segmentation. It consists of a contracting path, a bottleneck, and an expansive path. The architecture is symmetrical, and the expansive path mirrors the contracting path, which helps in capturing context at multiple scales.
+![image](https://github.com/sri-d1/Human-Segmentation/assets/68694495/981b12d4-71a4-4625-bbbc-3cffb22ed530)
 
 ## Results
 Below are the images showing Predicition , Ground Truth and Actual Image 
